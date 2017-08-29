@@ -1,0 +1,16 @@
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\bin\Debug\netcoreapp2.0\VendingMachine.Tests.deps.json
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\bin\Debug\netcoreapp2.0\VendingMachine.Tests.runtimeconfig.json
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\bin\Debug\netcoreapp2.0\VendingMachine.Tests.runtimeconfig.dev.json
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\bin\Debug\netcoreapp2.0\VendingMachine.Tests.dll
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\bin\Debug\netcoreapp2.0\VendingMachine.Tests.pdb
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\bin\Debug\netcoreapp2.0\VendingMachine.dll
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\bin\Debug\netcoreapp2.0\VendingMachine.pdb
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\obj\Debug\netcoreapp2.0\VendingMachine.Tests.csprojResolveAssemblyReference.cache
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\obj\Debug\netcoreapp2.0\VendingMachine.Tests.csproj.CoreCompileInputs.cache
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\obj\Debug\netcoreapp2.0\VendingMachine.Tests.AssemblyInfoInputs.cache
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\obj\Debug\netcoreapp2.0\VendingMachine.Tests.AssemblyInfo.cs
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\obj\Debug\netcoreapp2.0\VendingMachine.Tests.dll
+C:\Users\brad.curry\Desktop\VendingMachine\VendingMachine.Tests\obj\Debug\netcoreapp2.0\VendingMachine.Tests.pdb
